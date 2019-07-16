@@ -14,7 +14,7 @@
 We are making available the following:
 * Implementation of the dataset importing and training the Siamese CNN ([link](./importing-training.ipynb))
 * Implementation of the validation and testing of the training model ([link](./testing-plotting.ipynb))
-* The dataset is available at:
+* The dataset composed by 100 constellation diagrams for each modulation format investigated (folder `dataset`)
 
 ## Setting up your environment (which libraries are required?)
 You can setup you environment using Python 3.6 or Python 3.7.
