@@ -1,6 +1,6 @@
 # One-Shot Learning for Modulation Format Identification in Evolving Optical Networks
 
-## Presented at the postdeadline paper session at the 2019 OSA Advanced Photonics Congress, Photonics Networks and Devices, paper JW4A.2
+## To be presented at the postdeadline paper session at the 2019 OSA Advanced Photonics Congress, Photonics Networks and Devices, paper JW4A.2
 
 ### Authors: Carlos Natalino, Aleksejs Udalcovs, Lena Wosinska, Oskars Ozolins and Marija Furdek
 
