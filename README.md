@@ -6,12 +6,14 @@
 
 **Abstract**: We report on the first successful application of one-shot machine learning scheme that identifies new modulation formats based on a single constellation diagram without re-training. 100% accuracy is achieved when expanding from 2 to 5 supported modulation formats.
 
+The preprint is available [here](https://research.chalmers.se/en/publication/511424).
+
 ## Training loss vs. accuracy
 
 ![Training epochs](results/training-anim.gif)
 
 ## What is in this repository?
-We are making available the following:
+We are making available the following resources:
 * Implementation of the dataset importing and training the Siamese CNN ([link](./importing-training.ipynb))
 * Implementation of the validation and testing of the training model ([link](./testing-plotting.ipynb))
 * The dataset composed by 100 constellation diagrams for each modulation format investigated (folder `dataset`)
@@ -56,3 +58,5 @@ Bibtex entry:
 
 ## References and tutorials useful during the development of this work:
 * One Shot Learning with Siamese Networks using Keras (https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d)
+
+<a href="https://www.researchgate.net/profile/Carlos_Natalino" alt="ResearchGate profile"><img style="height: 25px" src="https://i1.rgstatic.net/ii/institution.image/AS%3A267458164789257%401440778403888_l"/></a>
